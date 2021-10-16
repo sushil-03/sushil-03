@@ -15,7 +15,7 @@
   <a href="https://leetcode.com/sushilrawat1720/"><img width="32px"  title="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<img src="file:///Users/sushilrawat/Pictures/edited1.0.jpg">
+<img src="/Users/sushilrawat/Pictures/edited1.0.jpg">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
