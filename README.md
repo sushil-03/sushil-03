@@ -41,7 +41,9 @@
 <!--   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
   </a> -->
- 
+ <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  </a>
   <a href="https://www.cplusplus.com/doc/tutorial/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   </a>
@@ -76,7 +78,9 @@
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/-MongoDb-orange?&style=for-the-badge&logo=MongoDB&logoColor=white">
   </a>
-  
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/-Express-green?&style=for-the-badge&logo=MongoDB&logoColor=white">
+  </a>
 </p>
 
 
