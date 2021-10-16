@@ -27,7 +27,7 @@
 ## 🔥 Streak stats
 
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushil-03&theme="radical")](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushil-03&theme=radical)](https://git.io/streak-stats)
 
 ## 🛠️ My favorite tools
 
