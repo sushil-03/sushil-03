@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Dev.to" title="Website" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://leetcode.com/sushilrawat1720/"><img width="32px" alt="Ko-fi" title="LeetCode" src="https://ibb.co/df21j3m"/></a>
+<!--   <a href="https://leetcode.com/sushilrawat1720/"><img width="32px" alt="Ko-fi" title="LeetCode" src="https://ibb.co/df21j3m"/></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
