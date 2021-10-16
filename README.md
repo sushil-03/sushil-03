@@ -12,8 +12,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Dev.to" title="Website" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- 
-<!-- Leetcode   -->
   <a href="https://leetcode.com/sushilrawat1720/"><img width="32px"  title="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
