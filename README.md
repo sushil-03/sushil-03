@@ -29,7 +29,6 @@
   <a href="https://github.com/sushil-03/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil-03&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 <!-- *************************************************************************************************************************** -->
@@ -51,14 +50,14 @@
   
   <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=sushil-03&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-03&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sushil-03&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
 </p>
   
