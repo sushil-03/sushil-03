@@ -12,13 +12,29 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Dev.to" title="Website" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+<!-- Leetcode   -->
   <a href="https://leetcode.com/sushilrawat1720/"><img width="32px"  title="LeetCode" src="/Users/sushilrawat/Pictures/edited2.0.jpg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+<!--  Codechef  -->
+  
+<!--    -->
 </p>
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
+
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
   </a>
-</h1>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
+## 🛠️ My favorite tools
+
