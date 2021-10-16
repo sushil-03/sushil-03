@@ -73,9 +73,10 @@
     <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
   </a>
   
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/-MongoDb-orange?&style=for-the-badge&logo=MongoDB&logoColor=white">
   </a>
+  
 </p>
 
 
