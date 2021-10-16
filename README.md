@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
  
 <!-- Leetcode   -->
-  <a href="https://leetcode.com/sushilrawat1720/"><img width="32px"  title="LeetCode" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png"/></a>
+  <a href="https://leetcode.com/sushilrawat1720/"><img width="32px"  title="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
 <!--  Codechef  -->
