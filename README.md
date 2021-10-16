@@ -55,18 +55,10 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#218](https://github.com/nextcord/nextcord/issues/218) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Opened issue [#274](https://github.com/DenverCoder1/jct-discord-bot/issues/274) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#203](https://github.com/DenverCoder1/custom-icon-badges/pull/203) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🗣 Commented on [#189](https://github.com/DenverCoder1/github-readme-streak-stats/issues/189) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. ❗️ Closed issue [#22](https://github.com/DenverCoder1/table2ascii/issues/22) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-<!--END_SECTION:activity-->
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sushil-03/github-readme-activity-graph"><img alt="Sushil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sushil-03&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
