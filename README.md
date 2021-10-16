@@ -113,7 +113,7 @@
 <!--  ***********************************************************************************************************-->
 
 
-<h1 align="center"> 🤝 Socials: </h1>
+## 🤝 Socials:
   <p align="center">
     <a href="https://twitter.com/sushil_0_3">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
