@@ -44,9 +44,9 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-  <br/>
+  
     <a href="https://github.com/sushil-03/github-readme-stats"><img alt="Sushil's Github Stats" src="https://sushil-03-github-readme-stats.vercel.app/api/?username=sushil-03&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
+  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
