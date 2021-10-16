@@ -12,10 +12,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Dev.to" title="Website" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://leetcode.com/sushilrawat1720/"><img width="32px"  title="LeetCode" src="/Users/sushilrawat/Pictures/edited1.0.jpg"/></a>
+  <a href="https://leetcode.com/sushilrawat1720/"><img width="32px"  title="LeetCode" src="/Users/sushilrawat/Pictures/edited2.0.jpg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<img src="/Users/sushilrawat/Pictures/edited1.0.jpg">
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
