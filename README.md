@@ -37,15 +37,11 @@
 
 
 <p align="center">
-  <a href="https://www.typescriptlang.org/">
+  
+<!--   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
-  <a href="https://golang.org/">
-    <img src="https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=go&logoColor=white">
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/rust-000000?&style=for-the-badge&logo=rust&logoColor=white">
-  </a>
+  </a> -->
+ 
   <a href="https://www.cplusplus.com/doc/tutorial/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   </a>
@@ -71,19 +67,12 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
-  <a href="https://www.google.com/intl/en_in/chrome/">
-    <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
-  </a>
+
   <br>
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
   </a>
-  <a href="https://www.sqlite.org/index.html">
-    <img src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white">
-  </a>
+  
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
   </a>
