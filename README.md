@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+<!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" /> -->
 
 <h3 align="center">
   Welcome to Sushil Rawat profile!
@@ -128,4 +128,7 @@
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
+  
+  <img height="120" alt="See you next time..." color="red" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 </h1>
