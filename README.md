@@ -28,7 +28,7 @@
 
 <!-- <details>  -->
 <!--   <summary>💻 GitHub Profile Stats</summary> -->
-## 💻 GitHub Profile Stats
+<!-- ## 💻 GitHub Profile Stats -->
 
  <br/>
   <p align="center">
