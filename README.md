@@ -38,10 +38,10 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details> 
-
+<!-- 
 <a href="https://github.com/sushil-03/github-readme-activity-graph"><img alt="Sushil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sushil-03&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-
+ -->
 <!-- *************************************************************************************************************************** -->
 <!-- *********************************************************TOOL********************************************************************** -->
 
