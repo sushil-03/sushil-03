@@ -12,14 +12,14 @@
 
 
 
-<!-- ***************************************************** Streak Status  ******************************************         -->
+<!-- ***************************************************** Streak Status  ******************************************        
 ## 🔥 Streak stats
 <p align="center">
   <a href="https://github.com/sushil-03/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil-03&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-
+ -->
 <!-- *************************************************************************************************************************** -->
 
 <!--  **************************************************GITHUB STATS*********************************************************-->
