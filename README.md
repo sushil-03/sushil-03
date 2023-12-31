@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sushil 👋</h1>
+<h1 align="center">Hi , I'm Sushil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ![](https://komarev.com/ghpvc/?username=sushil03-ui) 
 <!-- - 🧑‍🔬 I'm currently working as an SDE Intern at [Edfora](https://www.edfora.com/) -->
