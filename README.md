@@ -1,28 +1,50 @@
-<!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" /> -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sushil 👋</h1>
 
-<h3 align="center">
-  Welcome to Sushil Rawat profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+![](https://komarev.com/ghpvc/?username=sushil03-ui) 
+<!-- - 🧑‍🔬 I'm currently working as an SDE Intern at [Edfora](https://www.edfora.com/) -->
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Self-taught%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
-
+- 🔭 I’m currently learning and working on NodeJS, MongoDB, AWS, Android Devlopment, Express, React and NextJS
+- 👯 I’m looking to collaborate on **Frontend Development** and **MERN Stack**
+- 📫 How to reach me: sushilrawat1720@gmail.com or message me on [whatsapp](https://wa.me/9548112836)
+- ⚡ Hobby: Chess and Coding
 
 
 
-<!-- ***************************************************** Streak Status  ******************************************        
-## 🔥 Streak stats
-<p align="center">
-  <a href="https://github.com/sushil-03/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil-03&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
- -->
-<!-- *************************************************************************************************************************** -->
+### Currently I am working with ...
 
-<!--  **************************************************GITHUB STATS*********************************************************-->
+<a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="GraphQL" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Express" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Neovim" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="Neovim" width="30" height="30"/></a>&nbsp;&nbsp;
+
+
+### I have also worked with ...
+
+<a href="" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="C" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="C++" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="PostgreSQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Docker" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+
+
+
+
+
+<br />
+
+
 ## 📊 Github stats
 
 
@@ -32,92 +54,13 @@
 
  <br/>
   <p align="center">
-    <a href="https://github.com/sushil-03/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sushil-03&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="50%" >
+    <a href="https://github.com/sushil-03/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sushil-03&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&title_color=#F85D7F&icon_color=F8D866" height="192px" width="50%" >
   </a>
-  <a href="https://github.com/sushil-03/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-03&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="40%">
+  <a href="https://github.com/sushil-03/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-03&layout=compact&theme=radical&hide_border=true&bg_color=#1F222E&title_color=#F85D7F&icon_color=#F8D866&hide=Jupyter%20Notebook" height="192px" width="40%">
   </a>
   </p>  
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<!-- </details>  -->
-<!-- 
-<a href="https://github.com/sushil-03/github-readme-activity-graph"><img alt="Sushil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sushil-03&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
- -->
-<!-- *************************************************************************************************************************** -->
-<!-- *********************************************************TOOL********************************************************************** -->
+<!-- <a href="https://www.buymeacoffee.com/princivershwal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a> -->
 
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
-
-<p align="center">
-  <!--   <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
-  </a> -->
- <a href="https://www.python.org/">
-     <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  </a>
-  <a href="https://www.cplusplus.com/doc/tutorial/">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  </a>
-  <a href="https://html.com/">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  </a> 
-  <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a>
-  <br>
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  </a>
-  <a href="https://www.json.org/json-en.html">
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
-  </a>
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p align="center">
-   <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
-  </a>
-   <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/-Express-green?&style=for-the-badge&logo=MongoDB&logoColor=white">
-  </a>
-</p>
-
-### 🗄️ Databases and cloud hosting
-
-<p align="center">
-    <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/-MongoDb-orange?&style=for-the-badge&logo=MongoDB&logoColor=white">
-    </a>
-</p>
-
-### 💻 Software and tools
-
-<p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  </a>
-</p>
-
-
-
-
-## 🤝 Socials:
-  <p align="center">
-    <a href="https://twitter.com/sushil_0_3">
-      <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/sushil-rawat-77265019b/">
-      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  </p>
   
-  
-</h1>
